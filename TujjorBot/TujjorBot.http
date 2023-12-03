@@ -1,0 +1,6 @@
+@TujjorBot_HostAddress = http://localhost:5260
+
+GET {{TujjorBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
